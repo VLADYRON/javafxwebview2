@@ -16,7 +16,7 @@ public class FruitsService {
 		
 		// a database...
 		final List<String> fruits = asList(
-				new String[] { "orange", "apple", "banana", "strawberry" });
+				new String[] { "orange", "apple", "banana", "strawberry" , "fuck off"});
 		
 		// launch a background thread (async)
 		new Thread( () -> {
